@@ -1,0 +1,1 @@
+Improved an existing Intrusion Detection System by integrating advanced machine learning algorithms,utilized Python to develop and test machine learning models, focusing on anomaly detection in network traffic.
